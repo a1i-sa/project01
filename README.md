@@ -25,6 +25,9 @@
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+## Project Purpose
+
+this is a nestjs , mysql app which uses jwt tokens for authentication , Also to reset the user's password in case the user forgets the password, it sends a password recovery SMS to the user's pre-registered phonenumber (for using this option you have to register your own SMS panel )
 
 ## Project setup
 
